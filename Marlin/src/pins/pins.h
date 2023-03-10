@@ -843,7 +843,7 @@
   #define BOARD_MKS_MONSTER8            99925
 
   #if MB(MKS_13)
-    #error "BOARD_MKS_13 has been renamed BOARD_MKS_GEN_13. Please update your configuration."
+    #error "BOARD_MKS_13 has been renamed BOARD_MKS_GEN_13. Please updater configuration."
   #elif MB(TRIGORILLA)
     #error "BOARD_TRIGORILLA has been renamed BOARD_TRIGORILLA_13. Please update your configuration."
   #elif MB(RURAMPS4D)
